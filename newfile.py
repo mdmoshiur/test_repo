@@ -7,3 +7,6 @@ made some changes on same file then what happend
 
 
 changed from master
+
+
+changed from git flow 

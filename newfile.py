@@ -4,3 +4,6 @@ change made
 developer changed the file
 
 made some changes on same file then what happend
+
+
+changed from master
